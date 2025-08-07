@@ -1,0 +1,7 @@
+Is array sorted or can be sorted? → Try Two Pointers.
+
+Do I need to check two sides at once? → Two Pointers.
+
+Am I searching for pairs/triplets? → Two Pointers.
+
+Do I need to do in-place modification? → Two Pointers.
