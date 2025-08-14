@@ -1,1 +1,9 @@
+Given start–end ranges? → Merge Intervals.
 
+Need to merge overlaps? → Merge Intervals.
+
+Can sort by start? → Sort + Merge Intervals.
+
+Time/date/coordinate spans? → Merge Intervals.
+
+Check start <= prev_end? → Merge Intervals.
