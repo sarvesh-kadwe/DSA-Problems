@@ -1,1 +1,15 @@
+Does the problem mention "array needs to be sorted first"? → Sorting.
 
+Do I need to find min/max difference between elements? → Sorting.
+
+Am I merging or comparing intervals/ranges? → Sorting.
+
+Do I need to use Binary Search? → Sorting.
+
+Am I grouping similar elements together (duplicates, anagrams, etc.)? → Sorting.
+
+Do I need to enable efficient two-pointer traversal? → Sorting.
+
+Does a greedy strategy depend on earliest/latest/shortest values? → Sorting.
+
+Do I need adjacent element relationships (like consecutive, closest, gap)? → Sorting.
